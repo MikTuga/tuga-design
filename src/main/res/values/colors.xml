@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_root">#0B0F14</color>
+    <color name="bg_surface">#11161D</color>
+    <color name="card_bg">#1A2129</color>
+    <color name="card_border">#2A3340</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="text_dim">#78909C</color>
+
+    <!-- Accents (per tile) -->
+    <color name="accent_blue">#2196F3</color>
+    <color name="accent_blue_dim">#1F3A5F</color>
+    <color name="accent_teal">#26A69A</color>
+    <color name="accent_teal_dim">#1B4D48</color>
+    <color name="accent_purple">#AB47BC</color>
+    <color name="accent_purple_dim">#4A2056</color>
+
+    <!-- Status -->
+    <color name="status_ok">#4CAF50</color>
+    <color name="status_warn">#FFA726</color>
+    <color name="status_error">#EF5350</color>
+
+    <!-- System -->
+    <color name="status_bar">#000000</color>
+</resources>
