@@ -35,4 +35,4 @@ Initial release as a standalone JitPack-publishable Android library, extracted f
 
 - minSdk 22, compileSdk 34, targetSdk 28
 - Kotlin 1.9.22, AGP 8.2.2, Gradle 8.5
-- Designed for **Geely Tugella head units** (Android 5.1, Geely Garage firmware). Do not bump SDK/Kotlin/Gradle.
+- Designed for **Geely Tugella head units** (Android 5.1, GMCustoms firmware). Do not bump SDK/Kotlin/Gradle.

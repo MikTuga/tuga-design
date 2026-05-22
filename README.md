@@ -1,6 +1,6 @@
 # tuga-design
 
-Shared Android library for the **Tuga ecosystem** — utilities for Geely Tugella head units on Geely Garage firmware (Android 5.1, API 22).
+Shared Android library for the **Tuga ecosystem** — utilities for Geely Tugella head units on GMCustoms firmware (Android 5.1, API 22).
 
 Provides:
 - **Design tokens** — dark theme palette (`colors.xml`), `Theme.TugaStore` base style
